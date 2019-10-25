@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/friend-finder.git"
+    "url": "git+https://github.com/catherineswihart/friendFinder.git"
   },
   "keywords": [
     "friend-finder",
@@ -28,7 +28,7 @@
   "author": "Anna D Derbakova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angrbrd/friend-finder/issues"
+    "url": "https://github.com/catherineswihart/friendFinder/issues"
   },
-  "homepage": "https://github.com/angrbrd/friend-finder#readme"
+  "homepage": "https://github.com/catherineswihart/friendFinder#readme"
 }
