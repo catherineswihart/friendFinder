@@ -8,7 +8,7 @@ var app = express();
 var PORT = process.env.PORT;
 
 // Expose the public directory to access CSS files
-app.use(express.static(path.join(__dirname, '/Users/catherine/Documents/homework/friendFinder/index.html')));
+app.use(express.static(path.join(__dirname, '/Users/catherine/Documents/homework/friendFinder/home.html')));
 
 // Add middleware for parsing incoming request bodies
 app.use(bodyParser.json());
